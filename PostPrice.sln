@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2050
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PostPrice", "PostPrice\PostPrice.vcxproj", "{D5B08C08-4449-44F8-9C90-2CF8961F98A6}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "邮费计算器", "邮费计算器\邮费计算器.vdproj", "{44F3D269-B08B-438A-A7C0-5437C428F535}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5B08C08-4449-44F8-9C90-2CF8961F98A6}.Debug|x64.ActiveCfg = Debug|x64
+		{D5B08C08-4449-44F8-9C90-2CF8961F98A6}.Debug|x64.Build.0 = Debug|x64
+		{D5B08C08-4449-44F8-9C90-2CF8961F98A6}.Debug|x86.ActiveCfg = Debug|Win32
+		{D5B08C08-4449-44F8-9C90-2CF8961F98A6}.Debug|x86.Build.0 = Debug|Win32
+		{D5B08C08-4449-44F8-9C90-2CF8961F98A6}.Release|x64.ActiveCfg = Release|x64
+		{D5B08C08-4449-44F8-9C90-2CF8961F98A6}.Release|x64.Build.0 = Release|x64
+		{D5B08C08-4449-44F8-9C90-2CF8961F98A6}.Release|x86.ActiveCfg = Release|Win32
+		{D5B08C08-4449-44F8-9C90-2CF8961F98A6}.Release|x86.Build.0 = Release|Win32
+		{44F3D269-B08B-438A-A7C0-5437C428F535}.Debug|x64.ActiveCfg = Debug
+		{44F3D269-B08B-438A-A7C0-5437C428F535}.Debug|x86.ActiveCfg = Debug
+		{44F3D269-B08B-438A-A7C0-5437C428F535}.Release|x64.ActiveCfg = Release
+		{44F3D269-B08B-438A-A7C0-5437C428F535}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D2E2F38B-D6C9-4125-A685-BDF12CF5B635}
+	EndGlobalSection
+EndGlobal
